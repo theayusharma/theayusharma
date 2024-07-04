@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theayusharma
-- 👀 I’m interested in C++, python, php, html development 
+- 👀 I’m interested in C++, python, java, js development 
 - 🌱 I’m currently learning JAVA, react.js
 - 😄 Pronouns: he/him
 
