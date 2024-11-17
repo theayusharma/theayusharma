@@ -10,7 +10,7 @@ I'm currently learning **MERN** stack and expanding my knowledge in **full-stack
 
 ### 🧑‍💻 Language Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theayusharma&layout=compact&hide=html&langs_count=5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theayusharma&layout=compact)
 
 ### 🌱 I am currently working on:
 
