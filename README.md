@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @theayusharma
-- 👀 I’m interested in C++, python, java, js development 
-- 🌱 I’m currently learning JAVA, react.js
-- 😄 Pronouns: he/him
+# Hi, I'm Ayush! 👋
 
-<!---
-theayusharma/theayusharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm currently learning **MERN** stack and expanding my knowledge in **full-stack web development**.
+
+### 🚀 Skills
+
+- **Languages**: HTML, CSS, JavaScript, Python, Shell scripting
+- **Tools & Frameworks**: React, Node.js, Express, MongoDB
+- **Others**: Git, Docker, APIs, Data Structures
+
+### 🧑‍💻 Language Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theayusharma&layout=compact&hide=html&langs_count=5)
+
+### 🌱 I am currently working on:
+
+- MERN stack projects
+- Exploring open-source contributions
+- Exploring linux
