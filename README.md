@@ -1,6 +1,6 @@
 # Hi, I'm Ayush! 👋
 
-I'm a**full-stack web development**.
+I'm a **full-stack web development**.
 
 ### 🚀 Skills
 
