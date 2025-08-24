@@ -1,20 +1,22 @@
 # Hi, I'm Ayush! 👋
 
-I'm a **full-stack web developer**
+![](https://komarev.com/ghpvc/?username=theayusharma&color=blueviolet&style=rounded)
 
-### 🚀 Skills
+I'm a **full-stack web developer** with a bit of interest in **Cloud**
 
-- **Languages**: HTML, CSS, JavaScript, TypeScript, Go ❤️, Bash, C++
-- **Tools & Frameworks**: React,Node.js, Express, MongoDB, Next.js, Vite React, Tailwind CSS, React Native
-- **Others**: Git, APIs, Linux, Nvim, Docker
+### 🧑‍💻 Skills
+
+- **Languages**: JavaScript, TypeScript, Go ❤️, Bash, C++
+- **Frameworks**: React, Node.js, Express, MongoDB, Next.js, Vite React, Tailwind CSS, React Native
+- **Tools & Others**: Git, REST APIs, Postman, Bun, Linux, Neovim, Docker, AWS, Azure, CI/CD(Github Actions)
 
 ### 🧑‍💻 Language Stats (it looks good)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theayusharma&layout=compact)
 
-### 🌱 I am currently working on:
+### 🧑‍💻 I am currently working on:
 
-- MERN stack projects
-- Exploring Golang frameworks
+- Web Dev projects
+- Exploring Go tui's
 - Exploring open-source contributions
-- Exploring linux
+- Exploring Linux things
