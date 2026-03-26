@@ -1,8 +1,11 @@
 # Hi, I'm Ayush! 👋
 
 ![](https://komarev.com/ghpvc/?username=theayusharma&color=blueviolet&style=rounded)
-
-<h2>I’m a **full-stack web developer** and a **cloud** guy currently exploring **devops**</h2> 
+<div >
+  <h2>
+    I’m a <strong>full-stack web developer</strong> and a <strong>cloud guy</strong> currently exploring <strong>devops</strong>
+  </h2>
+</div>
 
 <div align="center">
   <h3> 
