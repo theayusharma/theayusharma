@@ -2,9 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=theayusharma&color=blueviolet&style=rounded)
 
-I’m a **full-stack web developer** and a **cloud** guy currently exploring **devops** 
+<h2>I’m a **full-stack web developer** and a **cloud** guy currently exploring **devops**</h2> 
 
-<br/>
 <div align="center">
   <h3> 
   🧑‍💻 Tech Stack
